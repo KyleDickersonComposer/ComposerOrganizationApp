@@ -42,76 +42,76 @@ Here is a mock folder structure that Gippity generated.
 ---
 Project_Name/
 |-- Assets/
-|   |-- Audio/
-|   |   |-- Music/
-|   |   |   |-- Level_1/
-|   |   |   |   |-- Track_1/
-|   |   |   |   |   |-- Version_1/
-|   |   |   |   |   |   |-- Track_1_Main.wav
-|   |   |   |   |   |   |-- Track_1_Instrumental.wav
-|   |   |   |   |   |   |-- ...
-|   |   |   |   |-- Track_2/
-|   |   |   |   |-- ...
-|   |   |   |-- Level_2/
-|   |   |   |-- ...
-|   |   |-- Sound_Effects/
-|   |   |   |-- Environment/
-|   |   |   |   |-- Footsteps.wav
-|   |   |   |   |-- Door_Open.wav
-|   |   |   |   |-- ...
-|   |   |   |-- Characters/
-|   |   |   |-- ...
-|   |-- Images/
-|   |   |-- Cover_Art/
-|   |   |-- Level_1_Screenshots/
-|   |   |-- Level_2_Screenshots/
-|   |   |-- ...
-|   |-- Videos/
-|   |   |-- Trailers/
-|   |   |-- Behind_the_Scenes/
-|   |   |-- ...
+| |-- Audio/
+| | |-- Music/
+| | | |-- Level_1/
+| | | | |-- Track_1/
+| | | | | |-- Version_1/
+| | | | | | |-- Track_1_Main.wav
+| | | | | | |-- Track_1_Instrumental.wav
+| | | | | | |-- ...
+| | | | |-- Track_2/
+| | | | |-- ...
+| | | |-- Level_2/
+| | | |-- ...
+| | |-- Sound_Effects/
+| | | |-- Environment/
+| | | | |-- Footsteps.wav
+| | | | |-- Door_Open.wav
+| | | | |-- ...
+| | | |-- Characters/
+| | | |-- ...
+| |-- Images/
+| | |-- Cover_Art/
+| | |-- Level_1_Screenshots/
+| | |-- Level_2_Screenshots/
+| | |-- ...
+| |-- Videos/
+| | |-- Trailers/
+| | |-- Behind_the_Scenes/
+| | |-- ...
 |
 |-- Documents/
-|   |-- Project_Plan/
-|   |-- Creative_Brief/
-|   |-- Track_List/
-|   |-- Licensing/
-|   |-- ...
+| |-- Project_Plan/
+| |-- Creative_Brief/
+| |-- Track_List/
+| |-- Licensing/
+| |-- ...
 |
 |-- Project_Files/
-|   |-- DAW_Projects/
-|   |   |-- Level_1/
-|   |   |   |-- Track_1/
-|   |   |   |-- Track_2/
-|   |   |   |-- ...
-|   |   |-- Level_2/
-|   |   |-- ...
-|   |-- MIDI_Files/
-|   |-- Sheet_Music/
-|   |-- ...
+| |-- DAW_Projects/
+| | |-- Level_1/
+| | | |-- Track_1/
+| | | |-- Track_2/
+| | | |-- ...
+| | |-- Level_2/
+| | |-- ...
+| |-- MIDI_Files/
+| |-- Sheet_Music/
+| |-- ...
 |
 |-- Exports/
-|   |-- Final_Mixes/
-|   |   |-- Level_1/
-|   |   |   |-- Track_1/
-|   |   |   |-- Track_2/
-|   |   |   |-- ...
-|   |   |-- Level_2/
-|   |   |-- ...
-|   |-- Stem_Mixes/
-|   |-- Mastered_Tracks/
-|   |-- ...
+| |-- Final_Mixes/
+| | |-- Level_1/
+| | | |-- Track_1/
+| | | |-- Track_2/
+| | | |-- ...
+| | |-- Level_2/
+| | |-- ...
+| |-- Stem_Mixes/
+| |-- Mastered_Tracks/
+| |-- ...
 |
 |-- Backups/
-|   |-- Version_1/
-|   |-- Version_2/
-|   |-- ...
+| |-- Version_1/
+| |-- Version_2/
+| |-- ...
 |
 |-- Tools/
-|   |-- Sample_Libraries/
-|   |-- Virtual_Instruments/
-|   |-- Plugins/
-|   |-- ...
+| |-- Sample_Libraries/
+| |-- Virtual_Instruments/
+| |-- Plugins/
+| |-- ...
 |
 |-- README.md
 |-- LICENSE.txt
@@ -120,4 +120,6 @@ Project_Name/
 |-- .gitignore
 |-- .editorconfig
 |-- ...
+
+
 
