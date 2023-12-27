@@ -36,3 +36,5 @@ This is a sample spreadsheet for a tv show gig showing:
 - TC running total
 
 When giving cue numbers the right side of the m should continue iterating and the left side should reflect the reel number.
+
+Going to look at what those books have to say about project management.
