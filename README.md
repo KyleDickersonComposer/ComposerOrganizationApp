@@ -6,7 +6,6 @@ Your wav files should be in the bWAV format which embeds timecode data in the me
 If you are delivering stems add _StemName.
 
 Or, Something like:
----
 - ABC/S1_E10_1m01
 
 A glorious image from this git repo!
