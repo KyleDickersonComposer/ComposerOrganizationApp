@@ -1,6 +1,6 @@
 Composer Organization App
 ---
-This is an app that will automatically set up project structure that will suit media composition.
+This is an app that will automatically set up a project structure that will suit media composition.
 Maybe this could help with organization by automatically updating some spreadsheets and pushing changes to a git repo or maybe do some backup things like a background service.
 Your wav files should be in the bWAV format which embeds timecode data in the metadata. The file name should be formatted thus: TCL_3m07_v2_10163203 (Three letter project id, cue number, version number, SMPTE dd:hh:mm:ss:ff). 
 If you are delivering stems add _StemName.
