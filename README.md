@@ -1,6 +1,6 @@
 Composer Organization App
 ---
-This is an app that will automatically set up project structure that will suit media composition.
+This is an app that will automatically set up a project structure that will suit media composition.
 Maybe this could help with organization by automatically updating some spreadsheets and pushing changes to a git repo or maybe do some backup things like a background service.
 
 Maybe we could put a simple Maui wrapper on this console app or something. 
@@ -62,3 +62,4 @@ I guess you have to make a google cloud account to manage the Google APIs...
 This is pretty inconvenient if you want other people to use this app. I would either have to host all the cloud stuff myself or they would have to manage the cloud stuff themselves(bad!).
 
 I'm just make a google workplace with a bunch of javascript stuff to generate the files. Not that crazy.
+Gonna apply Primagen's concept of the 6 month system rework. You are banned from tweaking your template until June 2024!
