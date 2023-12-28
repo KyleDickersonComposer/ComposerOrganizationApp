@@ -41,3 +41,5 @@ Going to look at what those books have to say about project management. (LOL, no
 Here is a mock folder structure that Gippity generated.
 ---
 ![Alt a file structure](images/Screen%20Shot%202023-12-27%20at%201.52.07%20PM.png)
+
+Gonna apply Primagens concept of the 6 month system rework. You are banned from tweaking your template until June 2024!
