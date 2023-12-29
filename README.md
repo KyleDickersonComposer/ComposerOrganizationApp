@@ -63,3 +63,5 @@ This is pretty inconvenient if you want other people to use this app. I would ei
 
 I'm just make a google workplace with a bunch of javascript stuff to generate the files. Not that crazy.
 Gonna apply Primagen's concept of the 6 month system rework. You are banned from tweaking your template until June 2024!
+
+gonna cancel the google workspace thing
